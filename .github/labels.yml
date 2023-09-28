@@ -35,7 +35,7 @@
   description: 'Creates, modifies, or removes test code'
 - name: 'tooling'
   color: 'edc287'
-  description: 'Development tools'
+  description: 'Adjust configuration for development tooling. For example, eslint or webpack configurations.'
 
 # Triage
 - name: 'duplicate'
