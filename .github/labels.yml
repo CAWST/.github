@@ -32,7 +32,7 @@
   description: 'Changed internal functionality'
 - name: 'tests'
   color: 'edc287'
-  description: 'Tests'
+  description: 'Creates, modifies, or removes test code'
 - name: 'tooling'
   color: 'edc287'
   description: 'Development tools'
